@@ -1,0 +1,9 @@
+git clone
+git init
+git status
+git add .
+git branch -a
+git checkout [branchname]
+git checkout -b [branchname]
+git push remote origin
+git push
