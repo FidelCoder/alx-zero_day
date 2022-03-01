@@ -7,3 +7,4 @@ git checkout [branchname]
 git checkout -b [branchname]
 git push remote origin
 git push
+git pull
